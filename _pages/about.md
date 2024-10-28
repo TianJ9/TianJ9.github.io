@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year postgraduate student in the School of Computer Science,[Fudan University](https://www.fudan.edu.cn/). My research interest includes natural language processing, large language models(LLMs).
+I am a first-year postgraduate student in the School of Computer Science, [Fudan University](https://www.fudan.edu.cn/). My research interest includes natural language processing, large language models(LLMs).
 
 I am 22 years old. I look forward to my lasting academic progress. Thanks for your visit.
 
