@@ -1,18 +1,16 @@
 ---
 permalink: /
-title: "TianJun Pan"
-excerpt: "about me"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am a first-year postgraduate student in the School of Computer Science,[Fudan University](https://www.fudan.edu.cn/). My research interest includes natural language processing, large language models(LLMs).
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am 22 years old. I look forward to my lasting academic progress. Thanks for your visit.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](24210240261@m.fudan.edu.cn) / [Github](https://github.com/TianJ9) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/m0_58173553?spm=1000.2115.3001.5343)
 
